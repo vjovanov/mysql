@@ -16,7 +16,9 @@
     "bignumber.js": "4.1.0",
     "readable-stream": "2.3.5",
     "safe-buffer": "5.1.1",
-    "sqlstring": "2.3.1"
+    "sqlstring": "2.3.1",
+    "db-interface": "git@github.com:vjovanov/db-interface.git",
+    "db-interface-mle": "git@github.com:vjovanov/db-interface-mle.git"
   },
   "devDependencies": {
     "after": "0.8.2",
